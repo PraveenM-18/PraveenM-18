@@ -12,7 +12,8 @@ Hey there! I'm Praveen 👋
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen018)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Praveen_M_18)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white)](https://myportfolio-ruby-beta-60.vercel.app)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenmurugan467@gmail.com)
 ---
 
