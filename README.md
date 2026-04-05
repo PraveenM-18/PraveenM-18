@@ -28,12 +28,12 @@ Hey there! I'm Praveen 👋
 ---
 
 # 📊 GitHub Stats:
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenM-18&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PraveenM-18&theme=dark&hide_border=false)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PraveenM-18&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenM-18&layout=compact&theme=dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=PraveenM-18&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PraveenM-18&layout=compact&theme=tokyonight)
 ---
 
 ## 🏆 GitHub Trophies
