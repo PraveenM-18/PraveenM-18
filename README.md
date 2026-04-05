@@ -37,8 +37,7 @@ Hey there! I'm Praveen 👋
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenM-18&theme=onestar&no-frame=true&margin-w=10)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenM-18&theme=algolia&no-frame=true)
 ---
 
 ### ✍️ Random Dev Quote
