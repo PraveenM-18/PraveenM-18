@@ -37,7 +37,7 @@ Hey there! I'm Praveen 👋
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenM-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PraveenM-18&theme=onestar&no-frame=true&margin-w=10)
 
 ---
 
@@ -47,8 +47,7 @@ Hey there! I'm Praveen 👋
 ---
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=PraveenM-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top Repo](https://github-contributor-stats.vercel.app/api?username=PraveenM-18&limit=5&theme=tokyonight)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=PraveenM-18&icon=0&color=0)](https://visitcount.itsvg.in)
